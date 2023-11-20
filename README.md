@@ -1,4 +1,26 @@
-### Hi there 👋
+### Hi, I'm Shanty, this is my personnal "for fun" account 👋
+
+<h1> Who am I?</h1>
+<h3>I'm a passionate computer programming student from France, currently in my 4th year at Epitech </h3>
+
+- 🔭 I’m currently working on a [Cash Manager] (public repository later) a retailer-oriented distant payment system project  
+
+- 🌱 I’m currently learning **MongoDB,NestJS,React**
+
+- 👨‍💻 All of my projects are available at [github.com/Shantylly](github.com/Shantylly)
+
+- 📫 Reach me on my Discord : **shantylly** (no #) or my [LinkedIn](https://www.linkedin.com/in/shantylly/)
+
+- 💻 My professionnal account : [github.com/evarisk-micka](github.com/evarisk-micka)
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://www.php.net/images/logos/php-logo.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.mysql.com/fr/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1280px-MySQL.svg.png" alt="mysql" width="40" height="40"/> </a> </p>
+
+
+<h3> Github Statistics <h3>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shantylly&show_icons=true&locale=en&theme=tokyonight" alt="shantylly" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evarisk-micka&show_icons=true&locale=en&theme=tokyonight" alt="evarisk-micka" /></p>
 
 <!--
 **Shantylly/Shantylly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +36,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
