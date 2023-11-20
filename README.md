@@ -19,7 +19,7 @@
 
 <h3> Github Statistics <h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shantylly&show_icons=true&locale=en&theme=tokyonight" alt="shantylly"/> 
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=shantylly&show_icons=true&locale=en&theme=tokyonight" alt="shantylly"/> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=evarisk-micka&show_icons=true&locale=en&theme=tokyonight" alt="evarisk-micka"/> </p>
 
 <!--
