@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MongoDB,NestJS,React**
 
-- 👨‍💻 All of my projects are available at [github.com/Shantylly](https://www.github.com/Shantylly)
+- 👨‍💻 All of my projects are available at [github.com/Shantylly](https://www.github.com/Shantylly) and at [github.com/evarisk-micka](https://www.github.com/evarisk-micka)
 
 - 📫 Reach me on my Discord : **shantylly** (no #) or my [LinkedIn](https://www.linkedin.com/in/shantylly/)
 
@@ -19,8 +19,7 @@
 
 <h3> Github Statistics <h3>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=shantylly&show_icons=true&locale=en&theme=tokyonight" alt="shantylly"/> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=evarisk-micka&show_icons=true&locale=en&theme=tokyonight" alt="evarisk-micka"/> </p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=evarisk-micka&show_icons=true&locale=en&theme=tokyonight" alt="evarisk-micka"/> </p>
 
 <!--
 **Shantylly/Shantylly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
