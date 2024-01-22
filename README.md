@@ -3,7 +3,7 @@
 <h1> Who am I?</h1>
 <h3>I'm a passionate computer programming student from France, currently in my 4th year at Epitech </h3>
 
-- 🔭 I’m currently working on a [Cash Manager] (public repository later) a retailer-oriented distant payment system project  
+- 🔭 I’m currently working on a [Cash Manager](https://github.com/Shantylly/cash-manager) a retailer-oriented distant payment system project  
 
 - 🌱 I’m currently learning **MongoDB,NestJS,React**
 
