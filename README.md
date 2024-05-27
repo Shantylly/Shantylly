@@ -3,10 +3,6 @@
 <h1> Who am I?</h1>
 <h3>I'm a passionate computer programming student from France, currently in my 4th year at Epitech </h3>
 
-- 🔭 I’m currently working on a [Cash Manager](https://github.com/Shantylly/cash-manager) a retailer-oriented distant payment system project  
-
-- 🌱 I’m currently learning **MongoDB,NestJS,React**
-
 - 👨‍💻 All of my projects are available at [github.com/Shantylly](https://www.github.com/Shantylly) and at [github.com/evarisk-micka](https://www.github.com/evarisk-micka)
 
 - 📫 Reach me on my Discord : **shantylly** (no #) or my [LinkedIn](https://www.linkedin.com/in/shantylly/)
