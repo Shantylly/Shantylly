@@ -1,7 +1,7 @@
 ### Hi, I'm Shanty, this is my personnal "for fun" account 👋
 
 <h1> Who am I?</h1>
-<h3>I'm a passionate computer programming student from France, currently in my 4th year at Epitech </h3>
+<h3>I'm a passionnate developer from France, after finshing my courses at Epitech Montpellier </h3>
 
 - 👨‍💻 All of my projects are available at [github.com/Shantylly](https://www.github.com/Shantylly) and at [github.com/evarisk-micka](https://www.github.com/evarisk-micka)
 
